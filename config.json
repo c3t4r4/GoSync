@@ -1,0 +1,8 @@
+{
+  "source": "E:/Origem",
+  "destination": "Y:/Destino",
+
+  "logfile": "copied_files.txt",
+  "worker": 3,
+  "skip_extensions": [".pdf"]
+}
